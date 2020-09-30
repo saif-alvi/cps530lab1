@@ -40,7 +40,7 @@
 
 <a href="Technical_Report.html">Technical Report</a>
 <br>
-<a href="validation_report.html">Validation Report</a>
+<a href="Showing results for uploaded file cps530_lab1.html - Nu Html Checker.html">Validation Report</a>
 
 </body>
 </html>
