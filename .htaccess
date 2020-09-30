@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Protected Site"
-AuthUserFile /Users/saif-/OneDrive/Documents/saif-alvi.github.io/.htpasswd
-require valid-user
